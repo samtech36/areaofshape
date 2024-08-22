@@ -1,0 +1,15 @@
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\bin\Debug\net8.0\areaofshape.exe
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\bin\Debug\net8.0\areaofshape.deps.json
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\bin\Debug\net8.0\areaofshape.runtimeconfig.json
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\bin\Debug\net8.0\areaofshape.dll
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\bin\Debug\net8.0\areaofshape.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.AssemblyInfoInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.AssemblyInfo.cs
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.sourcelink.json
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.dll
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\refint\areaofshape.dll
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\areaofshape.genruntimeconfig.cache
+C:\Users\Samuel Hossain\Desktop\Repos\areaofshape\areaofshape\obj\Debug\net8.0\ref\areaofshape.dll
